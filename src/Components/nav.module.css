@@ -1,0 +1,8 @@
+.navName {
+  max-width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  font-size: larger;
+  font-weight: bold;
+  padding: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
